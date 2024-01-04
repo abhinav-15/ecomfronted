@@ -5,7 +5,7 @@
 - [MongoDB](https://www.mongodb.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
----------------##login page----------------------------
+##  login page----------------------------
 ![photo_2024-01-04_22-38-50](https://github.com/abhinav-15/ecomfronted/assets/69742746/386dddf0-44d1-480e-855a-6b9317e6ac40)
 
 ![photo_2024-01-04_22-38-55](https://github.com/abhinav-15/ecomfronted/assets/69742746/eac23d05-bf67-4a11-96f4-1b12964d507c)
