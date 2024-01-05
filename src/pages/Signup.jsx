@@ -10,7 +10,7 @@ const Signup = () => {
 
   const handleSignup = async () => {
     try {
-      const response = await fetch('http://localhost:4000/auth/signup', {
+      const response = await fetch('https://ecomm-app-nine.vercel.app/auth/signup', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
