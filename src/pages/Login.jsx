@@ -10,7 +10,7 @@ const Login = () => {
 const handleLogin = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('https://ecomm-app-kv6q.vercel.app/login', { email, password });
+      const response = await axios.post('https://ecommapi-o6kp.onrender.com/login', { email, password });
       console.log(response.data);
       
       // Handle successful login, set authentication state if needed
