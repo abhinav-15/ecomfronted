@@ -20,7 +20,7 @@ const ContactUs = () => {
     e.preventDefault();
 
     try {
-      const response = await fetch('https://ecomm-app-kv6q.vercel.app/contact/submit', {
+      const response = await fetch('https://ecommapi-o6kp.onrender.com/contact/submit', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
