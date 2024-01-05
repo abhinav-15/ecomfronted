@@ -101,7 +101,7 @@ const ContactUs = () => {
     e.preventDefault();
 
     try {
-      const response = await fetch('https://ecomm-app-nine.vercel.app/contact/submit', {
+      const response = await fetch('https://ecomm-app-kv6q.vercel.app/contact/submit', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
