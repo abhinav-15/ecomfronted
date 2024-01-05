@@ -10,7 +10,7 @@ const Signup = () => {
 
   const handleSignup = async () => {
     try {
-      const response = await fetch('https://ecomm-app-kv6q.vercel.app/auth/signup', {
+      const response = await fetch('https://ecommapi-o6kp.onrender.com/auth/signup', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
